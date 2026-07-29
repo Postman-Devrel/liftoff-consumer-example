@@ -2,6 +2,8 @@
 
 A simple single-page app that consumes the [Postman Liftoff](https://www.postman.com/liftoff) public content API to display learning paths and modules.
 
+![Screenshot](sample.png)
+
 ## What it does
 
 - Fetches learning paths and modules from the Liftoff API
